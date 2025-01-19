@@ -37,5 +37,5 @@ This project demonstrates a real-time streaming application built with React and
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/dasunk/streaming-demo.git
+   cd streaming-demo
