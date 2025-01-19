@@ -28,7 +28,7 @@ This project demonstrates a real-time streaming application built with React and
 
 ## Getting Started
 
-### Prerequisites
+### Assumptions
 
 - Node.js installed on your machine
 - A running streaming API (e.g., `http://localhost:5000/stream-chars`)
@@ -39,3 +39,7 @@ This project demonstrates a real-time streaming application built with React and
    ```bash
    git clone https://github.com/dasunk/streaming-demo.git
    cd streaming-demo
+
+```bash
+   npm install
+   npm start
